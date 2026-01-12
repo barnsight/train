@@ -52,8 +52,8 @@ The output of this repo is trained model artifacts, not a running service.
 
 Training behavior is controlled via:
 
-    - **settings.ini** — model and dataset configuration
-    - **train.py** — training logic and orchestration
+- **settings.ini** — model and dataset configuration
+- **train.py** — training logic and orchestration
 
 This keeps experiments reproducible and explicit.
 
